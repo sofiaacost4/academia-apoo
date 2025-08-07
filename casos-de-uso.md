@@ -2,8 +2,6 @@
 
 ## 1. Resumo
 
-**Autor:** Maria Helena C. de Medeiros
-
 Este caso de uso permite que um aluno realize sua inscrição em uma aula oferecida pela instituição. O gestor também pode efetuar inscrições em nome do aluno, por exemplo, em casos administrativos ou de suporte.
 
 ---
