@@ -11,6 +11,7 @@ Sistema web que permite o cadastro de alunos, instrutores, aulas e pagamentos em
 > Kelvin 👨‍💻: @kek3lvin - 
 > Helena 👩‍💻: @Helen4Medeiros
 
+
 🔗 Link ara caso de uso base:
 📄 Estudo de Caso – Gym Time (https://.com/estudo-de-caso.pdf)
  
