@@ -9,7 +9,7 @@ Sistema web que permite o cadastro de alunos, instrutores, aulas e pagamentos em
 👥 Autores: 
 > Sofia 👩‍💻: @sofiaacost4 -
 > Kelvin 👨‍💻: @kek3lvin - 
-> Helena 👩‍💻: @Helen4Medeiros
+> Helena 👩‍💻: @Helen4Medeiros__
 
 
 🔗 Link ara caso de uso base:
