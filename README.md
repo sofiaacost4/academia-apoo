@@ -10,8 +10,7 @@ Sistema web que permite o cadastro de alunos, instrutores, aulas e pagamentos em
 👥 Autores: 
 > Sofia 👩‍💻: https://github.com/sofiaacost4 -
 > Kelvin 👨‍💻: https://github.com/Kek3lvin -
-> Maria 👩‍💻: https://github.com/Helen4Medeiros
-
+> Helena 👩‍💻: https://github.com/Helen4Medeiros__
 
 🔗 Link para caso de uso base:
 > 📄 Estudo de Caso – Gym Time (https://.com/estudo-de-caso.pdf)
