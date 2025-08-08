@@ -9,9 +9,9 @@ Sistena de Gerenciamento de Aulas -  Gym Time
 Sistema web que permite o cadastro de alunos, instrutores, aulas e pagamentos em uma academia. Os usuários podem consultar a disponibilidade de aulas, realizar inscrições e acompanhar o status de seus pagamentos. O sistema também gerencia a alocação de instrutores conforme suas especialidades.
 
 👥 Autores: 
-> Sofia 👩‍💻: https://github.com/sofiaacost4 -
-> Kelvin 👨‍💻: https://github.com/Kek3lvin -
-> Helena 👩‍💻: https://github.com/Helen4Medeiros__
+- Sofia 👩‍💻: https://github.com/sofiaacost4 -
+- Kelvin 👨‍💻: https://github.com/Kek3lvin -
+- Helena 👩‍💻: https://github.com/Helen4Medeiros__
 
 🔗 Link para caso de uso base:
 > 📄 Estudo de Caso – Gym Time (https://.com/estudo-de-caso.pdf)
