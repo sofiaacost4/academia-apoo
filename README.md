@@ -15,4 +15,9 @@ Sistema web que permite o cadastro de alunos, instrutores, aulas e pagamentos em
 
 🔗 Link para caso de uso base:
 > 📄 Estudo de Caso – Gym Time (https://nextfit.com.br/)
- 
+
+📖 Instruções simples:
+1. Clonar repositório:  
+   ```bash
+   https://github.com/sofiaacost4/academia-apoo
+
