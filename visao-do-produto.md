@@ -1,5 +1,7 @@
 # VISÃO DO PRODUTO
 
+## Autor: Maria Helena C.de Medeiros
+
 ## 1. Nome do Produto: Gym Time
 
 ## 2. Descrição
