@@ -15,6 +15,7 @@ Sistema web que permite o cadastro de alunos, instrutores, aulas e pagamentos em
 
 🔗 Link para caso de uso base:
 > 📄 Estudo de Caso 1 – Gym Time (https://nextfit.com.br/)
+
 > 📄 Estudo de Caso 2 – Gym Time (https://engenhariadocorpo.com.br/)
 
 📖 Instruções simples:
