@@ -14,5 +14,5 @@ Sistema web que permite o cadastro de alunos, instrutores, aulas e pagamentos em
 - Helena 👩‍💻: https://github.com/Helen4Medeiros
 
 🔗 Link para caso de uso base:
-> 📄 Estudo de Caso – Gym Time (https://.com/estudo-de-caso.pdf)
+> 📄 Estudo de Caso – Gym Time (https://nextfit.com.br/)
  
