@@ -1,4 +1,4 @@
-# Caso de Uso 009: Fazer inscrição
+# Caso de Uso 009: Inscrição aula
 
 ## Autor: Maria Helena C. de Medeiros
 
@@ -109,11 +109,7 @@ aulas).
    e. Local de aula;  
    f. Situação da inscrição: ativa, cancelada etc. 
 
-### 5.2 Fluxo Alternativo (Gestor)
-
-1. O sistema informa que o aluno não possui nenhuma inscrição ativa no momento;
-
-### 5.3 Fluxo de Exceção
+### 5.2 Fluxo de Exceção
 
 1. **Falha na conexão com o sistema:**  
    - O sistema não consegue se conectar ao banco de dados, exibindo uma mensagem de erro.
