@@ -1,6 +1,6 @@
 # VISÃO DO PRODUTO
 
-## Autor: Maria Helena C.de Medeiros
+## Autor: Kelvin de França Ferreira
 
 ## 1. Nome do Produto: Gym Time
 
