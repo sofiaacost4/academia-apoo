@@ -1,4 +1,4 @@
-# Descrição das classes
+# Modelo Conceitual
 
 ## Autora: Sofia Costa Kunzler
 
